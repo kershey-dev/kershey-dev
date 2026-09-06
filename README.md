@@ -8,9 +8,7 @@
 
 <br>
 
-<a href="#">Portfolio</a> ·
-<a href="#">LinkedIn</a> ·
-<a href="#">Email</a>
+[Portfolio](#) · [LinkedIn](#) · [Email](#)
 
 </div>
 
@@ -37,14 +35,14 @@ I enjoy turning ideas into practical digital products — from web applications 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,supabase,threejs,git,github,figma,vite,docker" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,supabase,threejs,git,github,figma,vite,docker" alt="Tech Stack" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=FF6D5A" alt="n8n" />
 <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Automation-111111?style=flat-square&logo=zap&logoColor=FF7A18" alt="Automation" />
-<img src="https://img.shields.io/badge/AI%20Workflows-111111?style=flat-square&logo=openai&logoColor=FF7A18" alt="AI Workflows" />
+<img src="https://img.shields.io/badge/Automation-111111?style=flat-square&logo=zap&logoColor=58A6FF" alt="Automation" />
+<img src="https://img.shields.io/badge/AI%20Workflows-111111?style=flat-square&logo=openai&logoColor=58A6FF" alt="AI Workflows" />
 
 </div>
 
@@ -64,6 +62,7 @@ tools       Docker
 ## 03 / SELECTED WORK
 
 ### 01. XillaFit
+
 **3D clothing customization and production management platform**
 
 `React` `Three.js` `Supabase` `Tailwind CSS`
@@ -73,11 +72,12 @@ tools       Docker
 - Order and production management
 - Inventory and delivery tracking
 
-[View project →](#)
+[View Project →](#)
 
 ---
 
 ### 02. Habit Stack
+
 **A productivity system designed around execution, not just tracking**
 
 `React` `JavaScript` `Supabase`
@@ -87,11 +87,12 @@ tools       Docker
 - Productivity tracking
 - Progress insights
 
-[View project →](#)
+[View Project →](#)
 
 ---
 
 ### 03. Consultation System
+
 **Digital consultation workflow for advisers and student capstone groups**
 
 `Web App` `Scheduling` `Documents`
@@ -101,11 +102,12 @@ tools       Docker
 - Document comparison
 - Group progress management
 
-[View project →](#)
+[View Project →](#)
 
 ---
 
 ### 04. Automation Lab
+
 **Small tools and workflows built to reduce repetitive work**
 
 `n8n` `APIs` `AI Workflows` `Docker`
@@ -115,7 +117,7 @@ tools       Docker
 - AI-assisted systems
 - Developer productivity experiments
 
-[View projects →](#)
+[View Projects →](#)
 
 ---
 
@@ -132,15 +134,15 @@ const currentFocus = {
   ],
 
   building: [
-    "real projects",
-    "useful tools",
-    "personal systems"
+    "Real Projects",
+    "Useful Tools",
+    "Personal Systems"
   ],
 
   exploring: [
-    "AI-assisted development",
-    "better UI systems",
-    "automation workflows"
+    "AI-assisted Development",
+    "Better UI Systems",
+    "Automation Workflows"
   ]
 };
 ```
@@ -154,15 +156,9 @@ const currentFocus = {
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=kershey-dev&theme=transparent&hide_border=true&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681"
+  src="https://streak-stats.demolab.com?user=kershey-dev&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681"
   alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://ghchart.rshah.org/FF7A18/kershey-dev"
-  alt="Kershey's GitHub contribution chart"
+  width="78%"
 />
 
 <br><br>
@@ -177,11 +173,26 @@ const currentFocus = {
 
 ```javascript
 const journey = [
-  { tech: "React",       note: "building modern web interfaces" },
-  { tech: "Node.js",     note: "learning backend development" },
-  { tech: "n8n",         note: "automating repetitive workflows" },
-  { tech: "Docker",      note: "learning cleaner dev environments" },
-  { tech: "AI Workflows",note: "exploring smarter ways to build" }
+  {
+    tech: "React",
+    note: "building modern web interfaces"
+  },
+  {
+    tech: "Node.js",
+    note: "learning backend development"
+  },
+  {
+    tech: "n8n",
+    note: "automating repetitive workflows"
+  },
+  {
+    tech: "Docker",
+    note: "learning cleaner development environments"
+  },
+  {
+    tech: "AI Workflows",
+    note: "exploring smarter ways to build"
+  }
 ];
 
 console.log("Building, learning, improving...");

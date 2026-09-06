@@ -35,14 +35,14 @@ I enjoy turning ideas into practical digital products — from web applications 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,supabase,threejs,git,github,figma,vite,docker" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,supabase,threejs,git,github,figma,vite,docker&perline=10" alt="Tech Stack" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=FF6D5A" alt="n8n" />
-<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Automation-111111?style=flat-square&logo=zap&logoColor=58A6FF" alt="Automation" />
-<img src="https://img.shields.io/badge/AI%20Workflows-111111?style=flat-square&logo=openai&logoColor=58A6FF" alt="AI Workflows" />
+<img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=FF6D5A" alt="n8n" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/APIs-161B22?style=flat-square&logo=fastapi&logoColor=58A6FF" alt="APIs" />
+<img src="https://img.shields.io/badge/AI%20Workflows-161B22?style=flat-square&logo=openai&logoColor=E6EDF3" alt="AI Workflows" />
 
 </div>
 
@@ -61,7 +61,11 @@ tools       Docker
 
 ## 03 / SELECTED WORK
 
-### 01. XillaFit
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / XillaFit
 
 **3D clothing customization and production management platform**
 
@@ -69,14 +73,15 @@ tools       Docker
 
 - Interactive 3D clothing preview
 - Custom apparel design workflow
-- Order and production management
-- Inventory and delivery tracking
+- Order & production management
+- Inventory & delivery tracking
 
 [View Project →](#)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 02. Habit Stack
+### 02 / Habit Stack
 
 **A productivity system designed around execution, not just tracking**
 
@@ -89,9 +94,13 @@ tools       Docker
 
 [View Project →](#)
 
----
+</td>
+</tr>
 
-### 03. Consultation System
+<tr>
+<td width="50%" valign="top">
+
+### 03 / Consultation System
 
 **Digital consultation workflow for advisers and student capstone groups**
 
@@ -104,9 +113,10 @@ tools       Docker
 
 [View Project →](#)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 04. Automation Lab
+### 04 / Automation Lab
 
 **Small tools and workflows built to reduce repetitive work**
 
@@ -119,33 +129,48 @@ tools       Docker
 
 [View Projects →](#)
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 04 / CURRENTLY
 
-```javascript
-const currentFocus = {
-  learning: [
-    "React",
-    "Node.js",
-    "Backend Development",
-    "Automation",
-    "Docker"
-  ],
+<table>
+<tr>
+<td width="33%" valign="top">
 
-  building: [
-    "Real Projects",
-    "Useful Tools",
-    "Personal Systems"
-  ],
+### LEARNING
 
-  exploring: [
-    "AI-assisted Development",
-    "Better UI Systems",
-    "Automation Workflows"
-  ]
-};
-```
+`React`  
+`Node.js`  
+`Backend Development`  
+`Docker`
+
+</td>
+<td width="33%" valign="top">
+
+### BUILDING
+
+`Web Apps`  
+`Useful Tools`  
+`Personal Systems`  
+`Automations`
+
+</td>
+<td width="33%" valign="top">
+
+### EXPLORING
+
+`AI Workflows`  
+`Better UI Systems`  
+`Automation`  
+`Developer Tooling`
+
+</td>
+</tr>
+</table>
 
 > turning knowledge into useful products.
 
@@ -156,9 +181,17 @@ const currentFocus = {
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=kershey-dev&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681"
+  src="https://streak-stats.demolab.com?user=kershey-dev&theme=github-dark-blue&hide_border=true&border_radius=8&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681"
   alt="GitHub Streak"
-  width="78%"
+  width="82%"
+/>
+
+<br><br>
+
+<img
+  src="https://ghchart.rshah.org/39D353/kershey-dev"
+  alt="Kershey GitHub Contribution Chart"
+  width="100%"
 />
 
 <br><br>
@@ -171,34 +204,15 @@ const currentFocus = {
 
 ## 06 / DEV.LOG
 
-```javascript
-const journey = [
-  {
-    tech: "React",
-    note: "building modern web interfaces"
-  },
-  {
-    tech: "Node.js",
-    note: "learning backend development"
-  },
-  {
-    tech: "n8n",
-    note: "automating repetitive workflows"
-  },
-  {
-    tech: "Docker",
-    note: "learning cleaner development environments"
-  },
-  {
-    tech: "AI Workflows",
-    note: "exploring smarter ways to build"
-  }
-];
-
-console.log("Building, learning, improving...");
-```
-
 ```txt
+> latest
+
+React        → building better interfaces
+Node.js      → learning backend development
+n8n          → automating repetitive work
+Docker       → learning cleaner dev environments
+AI Workflows → exploring smarter ways to build
+
 > same goal.
 > better versions.
 ```

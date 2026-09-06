@@ -1,10 +1,10 @@
 <div align="center">
 
-KERSHEY
+# KERSHEY
 
-Web Developer · Builder · BSIT Student
+**Web Developer · Builder · BSIT Student**
 
-build → learn → improve → repeat
+`build → learn → improve → repeat`
 
 <br>
 
@@ -14,8 +14,11 @@ build → learn → improve → repeat
 
 </div>
 
-01 / WHOAMI
+---
 
+## 01 / WHOAMI
+
+```json
 {
   "name": "Kershey",
   "location": "Philippines",
@@ -24,10 +27,13 @@ build → learn → improve → repeat
   "mindset": "Learning by building",
   "status": "Always a student."
 }
+```
 
 I enjoy turning ideas into practical digital products — from web applications and interactive experiences to productivity systems and automation workflows.
 
-02 / TOOLBOX
+---
+
+## 02 / TOOLBOX
 
 <div align="center">
 
@@ -44,81 +50,78 @@ I enjoy turning ideas into practical digital products — from web applications 
 
 <br>
 
+```txt
 frontend    JavaScript · React · Tailwind CSS
 backend     Supabase
 creative    Three.js · Figma
 workflow    Git · GitHub · Vite
 automation  n8n · APIs · AI-assisted workflows
 tools       Docker
+```
 
-03 / SELECTED WORK
+---
 
-01. XillaFit
+## 03 / SELECTED WORK
 
-3D clothing customization and production management platform
+### 01. XillaFit
+**3D clothing customization and production management platform**
 
-React Three.js Supabase Tailwind CSS
+`React` `Three.js` `Supabase` `Tailwind CSS`
 
-Interactive 3D clothing preview
+- Interactive 3D clothing preview
+- Custom apparel design workflow
+- Order and production management
+- Inventory and delivery tracking
 
-Custom apparel design workflow
+[View project →](#)
 
-Order and production management
+---
 
-Inventory and delivery tracking
+### 02. Habit Stack
+**A productivity system designed around execution, not just tracking**
 
-View project →
+`React` `JavaScript` `Supabase`
 
-02. Habit Stack
+- Habit planning
+- Focus sessions
+- Productivity tracking
+- Progress insights
 
-A productivity system designed around execution, not just tracking
+[View project →](#)
 
-React JavaScript Supabase
+---
 
-Habit planning
+### 03. Consultation System
+**Digital consultation workflow for advisers and student capstone groups**
 
-Focus sessions
+`Web App` `Scheduling` `Documents`
 
-Productivity tracking
+- Consultation booking
+- Revision tracking
+- Document comparison
+- Group progress management
 
-Progress insights
+[View project →](#)
 
-View project →
+---
 
-03. Consultation System
+### 04. Automation Lab
+**Small tools and workflows built to reduce repetitive work**
 
-Digital consultation workflow for advisers and student capstone groups
+`n8n` `APIs` `AI Workflows` `Docker`
 
-Web App Scheduling Documents
+- Workflow automation
+- API integrations
+- AI-assisted systems
+- Developer productivity experiments
 
-Consultation booking
+[View projects →](#)
 
-Revision tracking
+---
 
-Document comparison
+## 04 / CURRENTLY
 
-Group progress management
-
-View project →
-
-04. Automation Lab
-
-Small tools and workflows built to reduce repetitive work
-
-n8n APIs AI Workflows Docker
-
-Workflow automation
-
-API integrations
-
-AI-assisted systems
-
-Developer productivity experiments
-
-View projects →
-
-04 / CURRENTLY
-
+```javascript
 const currentFocus = {
   learning: [
     "React",
@@ -140,33 +143,39 @@ const currentFocus = {
     "automation workflows"
   ]
 };
+```
 
-turning knowledge into useful products.
+> turning knowledge into useful products.
 
-05 / ACTIVITY
+---
+
+## 05 / ACTIVITY
 
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=kershey-dev&theme=transparent&hide_border=true&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681"
-alt="GitHub Streak"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=kershey-dev&theme=transparent&hide_border=true&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681"
+  alt="GitHub Streak"
 />
 
 <br><br>
 
 <img
-src="https://ghchart.rshah.org/FF7A18/kershey-dev"
-alt="Kershey's GitHub contribution chart"
+  src="https://ghchart.rshah.org/FF7A18/kershey-dev"
+  alt="Kershey's GitHub contribution chart"
 />
 
 <br><br>
 
-consistency > intensity
+`consistency > intensity`
 
 </div>
 
-06 / DEV.LOG
+---
 
+## 06 / DEV.LOG
+
+```javascript
 const journey = [
   { tech: "React",       note: "building modern web interfaces" },
   { tech: "Node.js",     note: "learning backend development" },
@@ -176,13 +185,18 @@ const journey = [
 ];
 
 console.log("Building, learning, improving...");
+```
 
+```txt
 > same goal.
 > better versions.
+```
+
+---
 
 <div align="center">
 
-BUILD / LEARN / IMPROVE / REPEAT
+### BUILD / LEARN / IMPROVE / REPEAT
 
 <sub>Turning ideas into useful software, one project at a time.</sub>
 

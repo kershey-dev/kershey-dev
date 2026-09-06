@@ -1,193 +1,188 @@
 <div align="center">
 
-# KERSHEY
+KERSHEY
 
-**Web Developer · Builder · BSIT Student**
+Web Developer · Builder · BSIT Student
 
-`building practical web products / learning through real projects`
+build → learn → improve → repeat
 
 <br>
 
-[Portfolio](#) · [LinkedIn](#) · [Email](#)
+<a href="#">Portfolio</a> ·
+<a href="#">LinkedIn</a> ·
+<a href="#">Email</a>
 
 </div>
 
----
+01 / WHOAMI
 
-## 01 / WHOAMI
+{
+  "name": "Kershey",
+  "location": "Philippines",
+  "role": "Web Developer · BSIT Student",
+  "focus": ["Web Development", "UI/UX", "Automation"],
+  "mindset": "Learning by building",
+  "status": "Always a student."
+}
 
-```txt
-> whoami
+I enjoy turning ideas into practical digital products — from web applications and interactive experiences to productivity systems and automation workflows.
 
-name       Kershey
-location   Philippines
-focus      Web Development
-interests  UI/UX · Interactive Apps · Automation
-status     Learning by building
-```
-
-I enjoy turning ideas into practical digital products — from web applications and interactive experiences to productivity and automation tools.
-
----
-
-## 02 / TOOLBOX
+02 / TOOLBOX
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,supabase,threejs,git,github,figma,vite" />
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,supabase,threejs,git,github,figma,vite,docker" alt="Tech stack" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=FF6D5A" alt="n8n" />
+<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Automation-111111?style=flat-square&logo=zap&logoColor=FF7A18" alt="Automation" />
+<img src="https://img.shields.io/badge/AI%20Workflows-111111?style=flat-square&logo=openai&logoColor=FF7A18" alt="AI Workflows" />
 
 </div>
 
 <br>
 
-```txt
 frontend    JavaScript · React · Tailwind CSS
 backend     Supabase
 creative    Three.js · Figma
 workflow    Git · GitHub · Vite
-```
+automation  n8n · APIs · AI-assisted workflows
+tools       Docker
 
----
+03 / SELECTED WORK
 
-## 03 / SELECTED WORK
+01. XillaFit
 
-<table>
-<tr>
+3D clothing customization and production management platform
 
-<td width="50%" valign="top">
+React Three.js Supabase Tailwind CSS
 
-### XillaFit
+Interactive 3D clothing preview
 
-3D clothing customization and production management platform.
+Custom apparel design workflow
 
-`React` `Three.js` `Supabase` `Tailwind`
+Order and production management
 
-**Highlights**
+Inventory and delivery tracking
 
-* Interactive 3D clothing preview
-* Custom apparel design
-* Order & production management
-* Inventory and delivery tracking
+View project →
 
-[View Project →](#)
+02. Habit Stack
 
-</td>
+A productivity system designed around execution, not just tracking
 
-<td width="50%" valign="top">
+React JavaScript Supabase
 
-### Habit Stack
+Habit planning
 
-A productivity system focused on helping users execute their habits instead of simply tracking them.
+Focus sessions
 
-`React` `JavaScript` `Supabase`
+Productivity tracking
 
-**Highlights**
+Progress insights
 
-* Habit planning
-* Focus sessions
-* Productivity tracking
-* Progress insights
+View project →
 
-[View Project →](#)
+03. Consultation System
 
-</td>
+Digital consultation workflow for advisers and student capstone groups
 
-</tr>
+Web App Scheduling Documents
 
-<tr>
+Consultation booking
 
-<td width="50%" valign="top">
+Revision tracking
 
-### Consultation System
+Document comparison
 
-Digital consultation workflow for advisers and student capstone groups.
+Group progress management
 
-`Web App` `Scheduling` `Documents`
+View project →
 
-**Highlights**
+04. Automation Lab
 
-* Consultation booking
-* Revision tracking
-* Document comparison
-* Group progress management
+Small tools and workflows built to reduce repetitive work
 
-[View Project →](#)
+n8n APIs AI Workflows Docker
 
-</td>
+Workflow automation
 
-<td width="50%" valign="top">
+API integrations
 
-### Automation Lab
+AI-assisted systems
 
-Small tools and workflows built to reduce repetitive work.
+Developer productivity experiments
 
-`n8n` `APIs` `AI`
+View projects →
 
-**Exploring**
+04 / CURRENTLY
 
-* Workflow automation
-* AI-assisted systems
-* API integrations
-* Developer productivity
+const currentFocus = {
+  learning: [
+    "React",
+    "Node.js",
+    "Backend Development",
+    "Automation",
+    "Docker"
+  ],
 
-[View Projects →](#)
+  building: [
+    "real projects",
+    "useful tools",
+    "personal systems"
+  ],
 
-</td>
+  exploring: [
+    "AI-assisted development",
+    "better UI systems",
+    "automation workflows"
+  ]
+};
 
-</tr>
-</table>
+turning knowledge into useful products.
 
----
-
-## 04 / CURRENTLY
-
-```txt
-> current_focus
-
-learning   React · Node.js · Backend Development
-building   Web Apps · Productivity Tools · Automations
-exploring  AI-assisted Development · Better UI Systems
-```
-
----
-
-## 05 / ACTIVITY
+05 / ACTIVITY
 
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=kershey-dev&theme=transparent&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=kershey-dev&theme=transparent&hide_border=true&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681"
 alt="GitHub Streak"
 />
 
+<br><br>
+
+<img
+src="https://ghchart.rshah.org/FF7A18/kershey-dev"
+alt="Kershey's GitHub contribution chart"
+/>
+
+<br><br>
+
+consistency > intensity
+
 </div>
 
-<br>
+06 / DEV.LOG
+
+const journey = [
+  { tech: "React",       note: "building modern web interfaces" },
+  { tech: "Node.js",     note: "learning backend development" },
+  { tech: "n8n",         note: "automating repetitive workflows" },
+  { tech: "Docker",      note: "learning cleaner dev environments" },
+  { tech: "AI Workflows",note: "exploring smarter ways to build" }
+];
+
+console.log("Building, learning, improving...");
+
+> same goal.
+> better versions.
 
 <div align="center">
 
-`consistency > intensity`
-
-</div>
-
----
-
-## 06 / DEV.LOG
-
-```javascript
-const kershey = {
-  learning: ["React", "Node.js", "Automation"],
-  building: ["Web Apps", "Useful Tools"],
-  interests: ["UI/UX", "3D Web", "AI Workflows"],
-  goal: "Build software people actually use."
-};
-```
-
----
-
-<div align="center">
-
-### BUILD / LEARN / IMPROVE / REPEAT
+BUILD / LEARN / IMPROVE / REPEAT
 
 <sub>Turning ideas into useful software, one project at a time.</sub>
 

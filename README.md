@@ -35,14 +35,32 @@ I enjoy turning ideas into practical digital products — from web applications 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,supabase,threejs,git,github,figma,vite,docker&perline=10" alt="Tech Stack" />
+<img
+  src="https://skillicons.dev/icons?i=js,react,tailwind,supabase,threejs,git,github,figma,vite,docker&perline=10"
+  alt="Tech Stack"
+/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=FF6D5A" alt="n8n" />
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/APIs-161B22?style=flat-square&logo=fastapi&logoColor=58A6FF" alt="APIs" />
-<img src="https://img.shields.io/badge/AI%20Workflows-161B22?style=flat-square&logo=openai&logoColor=E6EDF3" alt="AI Workflows" />
+<img
+  src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=FF6D5A"
+  alt="n8n"
+/>
+
+<img
+  src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED"
+  alt="Docker"
+/>
+
+<img
+  src="https://img.shields.io/badge/APIs-161B22?style=flat-square&logo=fastapi&logoColor=58A6FF"
+  alt="APIs"
+/>
+
+<img
+  src="https://img.shields.io/badge/AI%20Workflows-161B22?style=flat-square&logo=openai&logoColor=E6EDF3"
+  alt="AI Workflows"
+/>
 
 </div>
 
@@ -63,6 +81,7 @@ tools       Docker
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 01 / XillaFit
@@ -79,6 +98,7 @@ tools       Docker
 [View Project →](#)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 02 / Habit Stack
@@ -95,9 +115,11 @@ tools       Docker
 [View Project →](#)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 03 / Consultation System
@@ -114,6 +136,7 @@ tools       Docker
 [View Project →](#)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 04 / Automation Lab
@@ -130,6 +153,7 @@ tools       Docker
 [View Projects →](#)
 
 </td>
+
 </tr>
 </table>
 
@@ -138,7 +162,9 @@ tools       Docker
 ## 04 / CURRENTLY
 
 <table>
+
 <tr>
+
 <td width="33%" valign="top">
 
 ### LEARNING
@@ -149,6 +175,7 @@ tools       Docker
 `Docker`
 
 </td>
+
 <td width="33%" valign="top">
 
 ### BUILDING
@@ -159,6 +186,7 @@ tools       Docker
 `Automations`
 
 </td>
+
 <td width="33%" valign="top">
 
 ### EXPLORING
@@ -169,7 +197,9 @@ tools       Docker
 `Developer Tooling`
 
 </td>
+
 </tr>
+
 </table>
 
 > turning knowledge into useful products.
@@ -189,8 +219,8 @@ tools       Docker
 <br><br>
 
 <img
-  src="https://ghchart.rshah.org/39D353/kershey-dev"
-  alt="Kershey GitHub Contribution Chart"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kershey-dev&bg_color=0d1117&color=c9d1d9&line=39d353&point=26a641&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Activity"
+  alt="Kershey GitHub Activity Graph"
   width="100%"
 />
 

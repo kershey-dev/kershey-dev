@@ -218,14 +218,6 @@ tools       Docker
 
 <br><br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kershey-dev&bg_color=0d1117&color=c9d1d9&line=39d353&point=26a641&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Activity"
-  alt="Kershey GitHub Activity Graph"
-  width="100%"
-/>
-
-<br><br>
-
 `consistency > intensity`
 
 </div>

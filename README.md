@@ -1,6 +1,6 @@
 <div align="center">
 
-# KERSHEY
+# Kershey
 
 **Web Developer · Builder · BSIT Student**
 
